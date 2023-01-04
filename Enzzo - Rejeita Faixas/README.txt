@@ -1,0 +1,2 @@
+Projeto para identificar uma faixa de ruído em um áudio a partir do ocenaudio e depois retirar o ruído através de filtros rejeita faixas.
+Após o calculo dos parâmentros em python os coeficientes foram implementados em uma placa wofson- pi para comparar os resultados.
